@@ -1,0 +1,2 @@
+# Automatic-Smoke-Detector
+This project features an Arduino Uno microcontroller paired with an MQ2 gas sensor, LED, and buzzer to detect the presence of smoke. It is designed for early smoke detection in buildings or apartments, triggering visual and audible alerts when smoke is detected.

@@ -1,0 +1,2 @@
+# Ultrasonic Sensor Interface
+This code is designed for proximity detection and distance measurement applications. It’s commonly used in projects like obstacle avoidance robots and distance-measuring devices, providing accurate real-time feedback for responsive behavior.

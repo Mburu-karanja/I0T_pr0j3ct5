@@ -1,0 +1,2 @@
+# RGB-LED
+This repository demonstrates how to work with an RGB LED module connected to Arduino digital pins. It explores controlling individual red, green, and blue channels to create various color combinations and lighting effects.

@@ -1,0 +1,2 @@
+# Automatic-Water-Tank
+This repository features an Arduino-based project that utilizes an Arduino board, a 4-channel relay module, and an ultrasonic sensor to automatically control a water tank. The system activates the water supply when the water level drops below the minimum threshold and shuts it off once the tank is full.

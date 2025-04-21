@@ -1,0 +1,2 @@
+# Arduino-Digital-Alarm-Clock
+This repository features an Arduino-based Digital Alarm Clock project. It combines multiple components and libraries to deliver a functional and user-friendly alarm system with timekeeping and alarm-setting capabilities.

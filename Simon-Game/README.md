@@ -1,0 +1,2 @@
+# Simon-Game
+🎮Let’s play! This repository contains an implementation of the classic Simon Game using the ESP32-C3 microcontroller. The Simon Game is a memory-based challenge where players must mimic an ever-growing sequence of lights and sounds. With each correct input, the sequence extends, testing and improving memory and concentration.
