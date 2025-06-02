@@ -26,7 +26,7 @@ void loop() {
   digitalWrite(buzzer, LOW);
 
   if (temperatureC < 20) {
-    // Cool condition: turn OFF cool LED (invert logic)
+    // Cool condition: turn OFF cool LED
     digitalWrite(ledCool, LOW);
   } else if (temperatureC < 30) {
     // Normal: turn OFF normal LED
